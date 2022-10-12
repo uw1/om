@@ -1,0 +1,2 @@
+[Ask HN: Where would you start looking for development clients? | Hacker News](https://news.ycombinator.com/item?id=29129148)
+	Takes years, many years, of networking, and investing back into your network.

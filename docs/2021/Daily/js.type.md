@@ -1,0 +1,2 @@
+[ianstormtaylor/superstruct: A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
+[kongware/scriptum: A fool's scriptum on functional programming](https://github.com/kongware/scriptum)

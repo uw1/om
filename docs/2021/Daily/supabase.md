@@ -1,0 +1,2 @@
+[10 Minute Tutorial - Full Stack GitHub Authentication with Supabase & React - DEV Community 👩‍💻👨‍💻](https://dev.to/dabit3/10-minute-tutorial-full-stack-github-authentication-with-supabase-react-3c6b)
+[Home ⚡ Made with Supabase](https://www.madewithsupabase.com/)
